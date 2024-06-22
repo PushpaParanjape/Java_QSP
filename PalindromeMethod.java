@@ -10,7 +10,7 @@ class PalindromeMethod
 		int rev = reverseNum(int num);
 	}
 
-	public static void reverseNum(int num) {
+	public static  reverseNum(int num) {
 		int rev = 0;
 		while(num > 0);
 		int rem = num % 10 ;
